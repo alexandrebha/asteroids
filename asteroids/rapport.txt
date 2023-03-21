@@ -1,0 +1,17 @@
+﻿ASTÉROIDS
+
+
+Dans ce jeu, le joueur manie un vaisseau qui peut tourner sur lui-même et avancer. 
+Il doit détruire les astéroïdes plus ou moins menaçants qui peuplent cet espace en leur tirant dessus et éviter à tout prix de les heurter.
+Les gros astéroïdes sont lents et les petits rapides. 
+Lorsqu’un gros astéroïde est détruit, il se fragmente en plusieurs plus petits, qui peuvent eux-mêmes se fragmenter lors de leur destruction.
+
+Dans le terminal, entrer :
+make pour compiler
+./projet pour exécuter le programme
+
+Dans le jeu :
+Flèche du haut : avancer
+Flèche gauche : tourner à gauche
+Flèche droite : tourner à droite
+Espace : tirer
